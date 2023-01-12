@@ -1,0 +1,7 @@
+/.env
+/build
+/node_modules
+/node
+.next
+/next-env.d.ts
+/.idea/
